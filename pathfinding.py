@@ -1,5 +1,7 @@
+import pygame as pg
 from collections import deque
 from functools import lru_cache
+from settings import *
 
 
 class PathFinding:
